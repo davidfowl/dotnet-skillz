@@ -1,0 +1,8 @@
+{
+    "name": "dotnet-skillz",
+    "description": ".NET CLI tools with SKILLS for coding agents. Includes tools for decompiling assemblies, and more.",
+    "version": "0.0.1",
+    "author": {
+        "name": "Microsoft Corporation"
+    }
+}
