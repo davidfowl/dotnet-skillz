@@ -6,7 +6,7 @@
 
 | Skill | Description |
 |-------|-------------|
-| [ilspy-decompile](skills/ilspy-decompile/SKILL.md) | Decompile .NET assemblies to C# source code using ILSpy |
+| [ilspy-decompile](skills/ilspy-decompile/SKILL.md) | Understand .NET implementation details by decompiling assemblies |
 
 ## What are Skills?
 
