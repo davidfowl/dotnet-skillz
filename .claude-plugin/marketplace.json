@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "ilspy-decompile",
-      "source": "./skills",
+      "source": "./skills/ilspy-decompile",
       "description": "Decompile .NET assemblies from the command line. View C# source, list types, generate compilable projects, and inspect IL code using ILSpy."
     }
   ]
